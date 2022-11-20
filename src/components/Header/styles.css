@@ -1,0 +1,9 @@
+.Header{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: black;     
+    height: 600px;
+    width: 100%;    
+    position: absolute;
+}

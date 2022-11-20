@@ -1,0 +1,34 @@
+.skils{
+    display: flex;  
+    gap:10px;     
+    color: white;        
+    margin-top: 14%;
+    position: absolute;
+    margin-left: 30%;
+    flex-direction: row;
+}
+
+.SkilImg{    
+    align-items: center;
+    width: 100px;
+    height: 100px;    
+    background-color: cadetblue;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.Container{
+    background-color: cadetblue;
+}
+
+#skillDescription{   
+    display: flex;
+    flex-direction: row;
+    gap:90px;
+    position: absolute;
+    color: black;    
+    font-weight: 900;  
+    font-family: 'Josefin Sans';   
+    margin-top: 19%;
+    margin-left: 31%;
+}

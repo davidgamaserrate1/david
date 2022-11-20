@@ -1,0 +1,36 @@
+.Description{
+   display: flex;
+   flex-direction: row;
+   position: relative;
+   height: 200px;         
+   font-style: italic;
+   font-weight: 900;  
+   font-family: 'Josefin Sans';   
+   font-size: 20px;           
+   color: white;
+}
+
+#descLeft{             
+    width: 15%;      
+    padding-left: 20%;
+    margin-top: 10%;
+}
+
+#descRight{              
+    width: 15%;          
+    padding-left: 5%;
+    margin-top: 10%;
+}
+
+#redFont{
+    color: red;
+    font-weight: 900;  
+    font-family: 'Josefin Sans';    
+    font-size: 25px; 
+    
+}
+
+#avatar{
+    margin-top: 5%;
+    margin-left: 5%;;
+}
